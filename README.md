@@ -1,5 +1,5 @@
 # Hi there, I'm Prince Kumar 👋 
-### 🎓 B.Tech CSE Student | 💻 MERN & Full Stack Developer | 🐳 DevOps & ML Enthusiast
+### 🎓 B.Tech CSE Student | 💻 MERN & Full Stack Developer | 🐳 DevOps 
 
 ---
 
