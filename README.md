@@ -1,5 +1,5 @@
 # Hi there, I'm Prince Kumar 👋 
-### 🎓 B.Tech CSE Student | 💻 Java Developer & ML Enthusiast
+### 🎓 B.Tech CSE Student | 💻  Full Stack Java Developer 
 
 ---
 
