@@ -6,7 +6,7 @@
 ### 🚀 About Me
 - 🎓 Currently pursuing **B.Tech CSE** at IILM University
 - 💻 Passionate about **Java, Full Stack Development & Data Analytics**
-- 📚 Currently learning **Machine Learning & Advanced DSA**
+- 📚 Currently learning **DSA**
 - ⚡ Fun Fact: Passionate about solving complex algorithms & building scalable apps!
 
 ---
